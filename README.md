@@ -1,11 +1,20 @@
-# STATIC
+# SaySomething2.world
 
-**This directory is not required, you can delete it if you don't want to use it.**
+[https://SaySomeghing2.world/](https://SaySomeghing2.world/)
 
-This directory contains your static files.
-Each file inside this directory is mapped to `/`.
-Thus you'd want to delete this README.md before deploying to production.
 
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
+**Fully decentralized DApp (permanent message board game), with PRIZE and BONUS.**
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#static).
+- Fully decentralized
+- Open-sourced
+- Does **NOT** have an **owner**
+- Nobody can control it
+- Even the creator
+- Easy to play
+- True game, keep traps away
+
+Team [PUSH.GAME](https://push.game/) presents.
+
+---
+
+[https://docs.SaySomeghing2.world/](https://docs.SaySomeghing2.world/) for documents.
