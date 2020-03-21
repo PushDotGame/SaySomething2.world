@@ -17,4 +17,4 @@ Team [PUSH.GAME](https://push.game/) presents.
 
 ---
 
-[https://docs.SaySomeghing2.world/](https://docs.SaySomeghing2.world/) for documents.
+[https://SaySomeghing2world.push.game/](https://SaySomeghing2world.push.game/) for documents.
