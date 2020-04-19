@@ -1,6 +1,6 @@
 # SaySomething2.world
 
-[https://SaySomeghing2.world/](https://SaySomeghing2.world/)
+[https://SaySomething2.world/](https://SaySomething2.world/)
 
 
 **Fully decentralized DApp (permanent message board game), with PRIZE and BONUS.**
